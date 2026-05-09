@@ -1,0 +1,5 @@
+Dans l'idéal l'app devrait permettre d'uploader un export CSV de mon CRM, comme celui ajouté ici, et d'avoir un dashboard avec des indicateurs clés sur l'activité de l'entreprise.
+
+
+
+Quelles sont les questions que je devrais me poser et les fonctionnalités que je devrais ajouter pour construire cette application et faire en sorte qu'elle soit fonctionnelle? (on va se concentrer sur le quoi et le pourquoi, pas le comment.) 

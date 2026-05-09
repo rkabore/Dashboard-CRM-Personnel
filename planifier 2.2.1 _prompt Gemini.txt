@@ -1,0 +1,7 @@
+// Mode Plan + Think hard 
+
+quel tech stack serait idéal pour
+  mon app décrite dans @PRD.md? Créez   
+  un rapport en comparant les         
+  différentes options et ensuite      
+  recommande un choix. Think hard!   

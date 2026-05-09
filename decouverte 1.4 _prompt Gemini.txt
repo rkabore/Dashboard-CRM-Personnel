@@ -1,0 +1,5 @@
+OK pour les différentes propositions que tu viens de me faire. 
+
+ J'aurai besoin dans le futur de mettre tout cela dans une base de données. Ce n'est pas maintenant. Il faut juste le prévoir pour la suite.
+
+Et pour cette application, il n'y aura pas d'authentification d'utilisateur. C'est pour une utilisation personnelle. Et aussi je n'aurai pas besoin de mécanisme de paiement pour cette application. Il faut mettre tout cela au périmètre. 

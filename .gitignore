@@ -1,0 +1,48 @@
+# Variables d'environnement — NE JAMAIS committer
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Node.js
+node_modules/
+.next/
+out/
+.nuxt/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Divers
+*.tmp
+*.bak
+
+# Claude Code — settings.json INCLUS (config partagée)
+# settings.local.json EXCLU (overrides locaux)
+.claude/settings.local.json

@@ -1,0 +1,2 @@
+ dans la V1, il faudrait mettre le snapshotting manuel au périmètre. Ce n'est pas une fonctionnalité dont j'ai besoin. 
+Dans la phase plus tard, il faut aussi mettre le multisource hors périmètre. Ce n'est pas une fonctionnalité dont j'ai besoin. 

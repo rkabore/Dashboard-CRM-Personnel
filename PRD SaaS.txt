@@ -1,0 +1,6 @@
+Le PRD pour un Saasdoit contenir des fonctionnalités non fonctionnelles
+telles que :
+- Nombre d'utilisateurs prévue
+- Niveau sécurité
+- Performances
+- ...

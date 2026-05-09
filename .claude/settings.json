@@ -1,0 +1,48 @@
+{ 
+"permissions": {
+ "allow": [ 
+	"Read(*)", 
+	"Write(*)", 
+    "Edit(*)", 
+    "Bash(grep:*)", 
+    "Bash(ls:*)", 
+    "Bash(source:*)", 
+    "Bash(find:*)", 
+    "Bash(mv:*)", 
+    "Bash(mkdir:*)", 
+    "Bash(tree:*)", 
+    "Bash(ruff:*)", 
+    "Bash(touch:*)", 
+    "Bash(chmod:*)", 
+    "Bash(cat:*)", 
+    "Bash(pytest:*)", 
+    "Bash(python:*)", 
+    "Bash(python -m pytest:*)", 
+    "Bash(python3 -m pytest:*)", 
+    "Bash(git init:*)", 
+    "Bash(git add:*)", 
+    "Bash(git commit:*)", 
+    "Bash(git remote add:*)", 
+    "Bash(git branch:*)", 
+    "Bash(git push:*)",
+    "Bash(git status:*)", 
+    "Bash(git diff:*)", 
+    "Bash(git log:*)", 
+    "Bash(gh auth status:*)",
+    "Bash(gh repo create:*)",
+    "Bash(gh repo view:*)",
+    "Bash(gh pr create:*)",
+    "Bash(gh issue view:*)",
+    "Bash(gh issue list:*)",
+    "PowerShell(gh auth status:*)",
+    "PowerShell(gh repo create:*)",
+    "PowerShell(gh repo view:*)",
+    "PowerShell(gh pr create:*)",
+    "PowerShell(gh issue list:*)",
+    "WebFetch(domain:*)", 
+    "Skill(*)"
+ ], 
+"deny": [
+    ] 
+    }
+}

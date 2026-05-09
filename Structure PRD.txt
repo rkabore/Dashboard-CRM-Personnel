@@ -1,0 +1,4 @@
+- Objectifs du produit
+- Fonctionnalités du produit
+- Exigences fonctionnelles
+- Exigences non fonctionnelles (sécurité, performances, …)

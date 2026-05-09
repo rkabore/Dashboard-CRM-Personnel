@@ -1,0 +1,1 @@
+peux-tu mettre notre discussion au format Markdown? Ainsi je pourrais le copier-coller dans un fichier et commencer à construire l'application avec un agent IA de codage. 

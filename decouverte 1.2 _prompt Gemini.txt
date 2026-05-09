@@ -1,0 +1,13 @@
+1. La Stratégie : Les questions fondamentales
+ la question business prioritaire est : où est-ce que je perds mes clients? Pour la fréquence de mise à jour, elle est hebdomadaire. Oui pour la hiérarchie des données, je veux le volume des deals et ainsi que la valeur monétaire des deals. 
+
+2. Fonctionnalités de Traitement (Le "Moteur")
+ Tu prends en compte l'ensemble des fonctionnalités de traitement? 
+
+3. Visualisation : Les indicateurs clés (KPI)
+ OK pour les visualisations proposées. 
+
+4. Fonctionnalités Utilisateur (L'Expérience)
+ OK pour les fonctionnalités utilisateur. 
+
+Est-ce que tu pourrais me proposer d'autres fonctionnalités qui m'aideraient à améliorer le Dashboard? 
