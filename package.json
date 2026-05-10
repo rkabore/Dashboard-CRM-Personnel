@@ -1,0 +1,35 @@
+{
+  "name": "crm-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "playwright test",
+    "test:unit": "playwright test --project=unit",
+    "test:e2e": "playwright test --config=playwright.e2e.config.ts"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "antd": "^5.0.0",
+    "@ant-design/icons": "^5.0.0",
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "recharts": "^2.0.0",
+    "zustand": "^5.0.0",
+    "papaparse": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/papaparse": "^5.0.0",
+    "@playwright/test": "^1.0.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^15.0.0"
+  }
+}

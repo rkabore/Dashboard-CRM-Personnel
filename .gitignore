@@ -46,3 +46,11 @@ logs/
 # Claude Code — settings.json INCLUS (config partagée)
 # settings.local.json EXCLU (overrides locaux)
 .claude/settings.local.json
+
+# Playwright — artefacts générés
+test-results/
+playwright-report/
+.playwright-mcp/
+
+# Screenshots de développement
+*.png
