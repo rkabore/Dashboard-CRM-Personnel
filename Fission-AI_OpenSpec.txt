@@ -1,0 +1,14 @@
+Fission-Ai/OpenSpec (Spec-Driven Development (SDD) fpr AI coding assistants)
+GitHub-Fission-AI/OpenSpec
+
+
+Require : Node.js >= 20.19.0
+
+npm install -g @fission-ai/openspec@latest
+
+
+openspec --version
+
+cd C:\MM\3iL\_IA\__CLAUDE-CODE\projetMasterclass\projetC
+
+openspec init

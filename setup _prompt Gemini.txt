@@ -1,0 +1,4 @@
+maintenant documente l'ensemble des choix techniques dans un fichier             
+  ARCHITECTURE.md qui contient les choix retenus et si il reste certains points à    
+  éclaircir, tu peux me demander. Garde uniquement l'architecture choisie. Pas   
+  besoin de garder les options écartées.   
